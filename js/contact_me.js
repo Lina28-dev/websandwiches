@@ -17,7 +17,11 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
+<<<<<<< HEAD
                 url: "../back/registro_procesar.php",
+=======
+                url: "././mail/contact_me.php",
+>>>>>>> c42426204a87f229b471552628c760a8f010cc54
                 type: "POST",
                 data: {
                     name: name,

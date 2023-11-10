@@ -110,7 +110,11 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	transition: all 0.7s;
 }
 #menu.navbar-default {
+<<<<<<< HEAD
 	background-color: rgba(248, 248, 248, 0);
+=======
+	background-color: rgba(238, 9, 9, 0);
+>>>>>>> c42426204a87f229b471552628c760a8f010cc54
 	border-color: rgba(231, 231, 231, 0);
 }
 #menu a.navbar-brand {
@@ -670,4 +674,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#092B41', end
   .boton{
 	width: 65px;
 	transition: ease 2s;
+<<<<<<< HEAD
   }
+=======
+  }
+>>>>>>> c42426204a87f229b471552628c760a8f010cc54
